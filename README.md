@@ -70,7 +70,7 @@ In the `main.js` you can find a simple code to animate stuff and show a "to top"
 
 After build the project check the sitemap name created with parcel in `scr/dist` folder and paste into the file `robots.txt`.
 
-## RESOURCES
+## 5. RESOURCES
 
 [https://getbootstrap.com/](https://getbootstrap.com/) Bootstrap
 
